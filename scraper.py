@@ -93,24 +93,24 @@ def check_tcp_ping(proxy_data):
 GEO_CACHE = {}
 
 def get_country_code(server: str) -> str:
-    """شناسایی لوکیشن سرور با کش"""
+    """شناسایی لوکیشن سرور با کش جهت جلوگیری از بلاک شدن ریکوئست‌ها"""
     if server in GEO_CACHE:
-        return GEO_)
-        
-        server = qs.get("server", [None])[0]
-        port = qs.get("port", [None])[0]
-        secret = qs.get("secret", [None])[0]
-        
-        if server and port and secret:
-            return {
-                "server": server.strip(),
-                "port": int(port.strip()),
-                "secret": secret.strip(),
-                "raw": f"tg://proxy?server={server.strip()}&port={port.strip()}&secret={secret.strip()}"
-            }
+        return GEO_CACHE[server]
+    
+    try:
+        ip_addr = socket.gethostbyname(server)
+        res = requests.get(f"http://ip-api.com/json/{ip_addr}?fields=countryCode,status", timeout=2.5)
+        if res.status_code == 200:
+            data = res.json()
+            if data.get("status") == "success":
+                cc = data.get("countryCode", "OTHER")
+                GEO_CACHE[server] = cc
+                return cc
     except Exception:
         pass
-    return None
+    
+    GEO_CACHE[server] = "OTHER"
+    return "OTHER"
 
 def check_tcp_ping(proxy_data):
     """تست باز بودن پورت و تاخیر ارتباطی"""
