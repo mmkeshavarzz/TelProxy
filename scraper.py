@@ -38,7 +38,10 @@ MAX_WORKERS = 35
 GEO_CACHE = {}
 
 def clean_and_parse(link: str):
-    """پاکسازی انکودینگ‌های HTML و استخراج مشخصات پروکسی"""
+    """
+    پاکسازی انکودینگ‌های HTML و استخراج مشخصات پروکسی
+    (نوشته شده به روش ایمن برای جلوگیری از سانسور کلمات و خطاهای سینتکس)
+    """
     try:
         unescaped = html.unescape(link.strip())
         if unescaped.startswith("https://t.me/proxy?"):
@@ -47,19 +50,21 @@ def clean_and_parse(link: str):
         parsed = urlparse(unescaped)
         qs = parse_qs(parsed.query)
         
-        server = GAPGPTMASKTOKENskewhljzbsX0X"server", [None])[0]
-        port = GAPGPTMASKTOKENskewhljzbsX1X"port", [None])[0]
-        secret = GAPGPTMASKTOKENskewhljzbsX2X"secret", [None])[0]
+        # استخراج ایمن: بدون استفاده از براکت‌های تو در تو
+        servers = qs.get("server", [])
+        ports = qs.get("port", [])
+        secrets = qs.get("secret", [])
         
-        if server and port and secret:
-            server = server.strip()
-            port = int(port.strip())
-            secret = GAPGPTMASKTOKENskewhljzbsX3X
+        if servers and ports and secrets:
+            server = servers[0].strip()
+            port = int(ports[0].strip())
+            proxy_secret = secrets[0].strip()
+            
             return {
                 "server": server,
                 "port": port,
-                "secret": secret,
-                "raw": f"tg://proxy?server={server}&port={port}GAPGPTMASKTOKENskewhljzbsX4X"
+                "secret": proxy_secret,
+                "raw": f"tg://proxy?server={server}&port={port}&secret={proxy_secret}"
             }
     except Exception:
         pass
@@ -132,8 +137,6 @@ def main():
             r = requests.get(src, headers=HEADERS, timeout=8)
             if r.status_code == 200:
                 matches = re.findall(REGEX_PATTERN, r.text)
-                name = src.split("/")[-1]
-                print(f"🌐 سورس پشتیبان {name}: {len(matches)} لینک یافت شد.")
                 raw_candidates.extend(matches)
         except Exception:
             pass
@@ -148,8 +151,7 @@ def main():
 
     print(f"\n📦 مجموع پروکسی‌های معتبر پارس شده: {len(parsed_items)}")
 
-    # ۴. تست پینگ و زنده بودن سرورها
-    print("⚡ در حال تست پینگ و بررسی سلامت پورت‌ها...")
+    # ۴. تست پینگ
     alive_proxies = []
     with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
         futures = {executor.submit(check_tcp_ping, pxy): pxy for pxy in parsed_items}
@@ -158,33 +160,25 @@ def main():
             if res:
                 alive_proxies.append(res)
 
-    print(f"✅ پروکسی‌های کاملاً سالم و آنلاین: {len(alive_proxies)}")
-
-    # ایجاد پوشه countries در صورت عدم وجود
+    print(f"✅ پروکسی‌های کاملاً سالم: {len(alive_proxies)}")
     os.makedirs("countries", exist_ok=True)
-
-    # مرتب‌سازی بر اساس کمترین تاخیر (Fastest First)
     alive_proxies.sort(key=lambda x: x.get("ping", 9999))
 
-    # ۵. ذخیره فایل اصلی sub.txt
     all_raws = [x["raw"] for x in alive_proxies]
     with open("sub.txt", "w", encoding="utf-8") as f:
         f.write("\n\n".join(all_raws) + ("\n" if all_raws else ""))
 
-    # ۶. دسته‌بندی کشوری و ذخیره در پوشه countries
     country_buckets = {}
     for item in alive_proxies:
         cc = get_country_code(item["server"])
-        if cc not in country_buckets:
-            country_buckets[cc] = []
-        country_buckets[cc].append(item["raw"])
+        country_buckets.setdefault(cc, []).append(item["raw"])
 
     for cc, items in country_buckets.items():
         if items:
             with open(f"countries/{cc}.txt", "w", encoding="utf-8") as f:
                 f.write("\n\n".join(items) + "\n")
 
-    print("🎉 عملیات با موفقیت انجام شد! فایل sub.txt و فولدر countries آپدیت شدند.")
+    print("🎉 عملیات با موفقیت انجام شد!")
 
 if __name__ == "__main__":
     main()
