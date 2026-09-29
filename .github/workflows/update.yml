@@ -1,0 +1,45 @@
+name: 🔄 Update Telegram Proxies
+
+on:
+  schedule:
+    # هر ۶ ساعت یک‌بار اجرا می‌شود تا پروکسی‌ها داغِ داغ بمانند!
+    - cron: '0 */6 * * *'
+  workflow_dispatch: # دکمه جذاب اجرای دستی
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 🛎️ Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: 🐍 Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: 📦 Install dependencies
+        run: |
+          pip install requests
+
+      # ایجاد پیشاپیش فایل و پوشه‌ها برای جلوگیری از بهانه‌گیری Git
+      - name: 📄 Prepare Folders and Files
+        run: |
+          mkdir -p countries
+          touch sub.txt
+
+      - name: 👾 Run MTProto Scraper
+        run: |
+          python scraper.py
+
+      - name: 🚀 Commit and Push
+        run: |
+          git config --global user.name "Proxy Hunter Bot 🤖"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # اضافه کردن تمام تغییرات (فایل اصلی + پوشه کشورها)
+          git add sub.txt countries/
+          
+          # کامیت تنها در صورت وجود تفاوت واقعی (جلوگیری از کامیت‌های الکی)
+          git diff --staged --quiet || (git commit -m "🤖 Auto-update MTProto Proxies: $(date +'%Y-%m-%d %H:%M')" && git push)
