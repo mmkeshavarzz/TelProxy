@@ -58,13 +58,13 @@ def clean_and_parse(link: str):
         if servers and ports and secrets:
             server = servers[0].strip()
             port = int(ports[0].strip())
-            GAPGPTMASKTOKENa9av8ljydzuX0X = GAPGPTMASKTOKENa9av8ljydzuX1X].strip()
+            secret = secrets[0].strip() # 🐛 باگ دقیقاً اینجا بود که اصلاح شد!
             
             return {
                 "server": server,
                 "port": port,
-                "secret": GAPGPTMASKTOKENa9av8ljydzuX2X,
-                "raw": f"tg://proxy?server={server}&port={port}GAPGPTMASKTOKENa9av8ljydzuX3X"
+                "secret": secret,
+                "raw": f"tg://proxy?server={server}&port={port}&secret={secret}"
             }
     except Exception:
         pass
