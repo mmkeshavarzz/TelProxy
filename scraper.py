@@ -58,13 +58,13 @@ def clean_and_parse(link: str):
         if servers and ports and secrets:
             server = servers[0].strip()
             port = int(ports[0].strip())
-            proxy_secret = secrets[0].strip()
+            GAPGPTMASKTOKENa9av8ljydzuX0X = GAPGPTMASKTOKENa9av8ljydzuX1X].strip()
             
             return {
                 "server": server,
                 "port": port,
-                "secret": proxy_secret,
-                "raw": f"tg://proxy?server={server}&port={port}&secret={proxy_secret}"
+                "secret": GAPGPTMASKTOKENa9av8ljydzuX2X,
+                "raw": f"tg://proxy?server={server}&port={port}GAPGPTMASKTOKENa9av8ljydzuX3X"
             }
     except Exception:
         pass
@@ -114,6 +114,62 @@ def get_country_code(server: str) -> str:
     
     GEO_CACHE[server] = "OTHER"
     return "OTHER"
+
+def send_telegram_broadcast(alive_proxies):
+    """
+    ارسال ۱۰ پروکسی برتر با کمترین پینگ به کانال تلگرام
+    به همراه لینک فعال‌سازی مستقیم با یک کلیک!
+    """
+    bot_token = os.getenv("TG_BOT_TOKEN")
+    channel_id = os.getenv("TG_CHANNEL_ID")
+
+    if not bot_token or not channel_id:
+        print("⚠️ توکن تلگرام یا آیدی کانال ست نشده است. مرحله ارسال به تلگرام اسکیپ شد.")
+        return
+
+    if not alive_proxies:
+        print("❌ پروکسی سالمی برای ارسال به تلگرام یافت نشد.")
+        return
+
+    top_proxies = alive_proxies[:10]
+    
+    message_lines = [
+        "🚀 <b>پروکسی‌های جدید و پرسرعت شکار شدند!</b>",
+        "➖➖➖➖➖➖➖➖➖➖",
+        "⚡ <i>لیست پرسرعت‌ترین سرورهای MTProto اختصاصی تلگرام:</i>\n"
+    ]
+
+    for idx, pxy in enumerate(top_proxies, 1):
+        ping = pxy.get("ping", "N/A")
+        raw_link = pxy["raw"]
+        connect_link = raw_link.replace("tg://proxy?", "https://t.me/proxy?")
+        
+        server_ip = pxy.get("server", "Server")
+        message_lines.append(f"{idx}️⃣ سرور: <code>{server_ip}</code> | پینگ: <b>{ping}ms</b>")
+        message_lines.append(f"🔗 <a href='{connect_link}'>برای اتصال کلیک کنید ⚡</a>\n")
+
+    message_lines.append("➖➖➖➖➖➖➖➖➖➖")
+    message_lines.append("🤖 <i>آپدیت خودکار توسط ربات TelProxy Hunter</i>")
+    message_lines.append("📢 عضویت در کانال: " + channel_id)
+
+    full_text = "\n".join(message_lines)
+
+    url = f"https://api.telegram.org/bot{bot_token}/sendMessage"
+    payload = {
+        "chat_id": channel_id,
+        "text": full_text,
+        "parse_mode": "HTML",
+        "disable_web_page_preview": True
+    }
+
+    try:
+        response = requests.post(url, json=payload, timeout=10)
+        if response.status_code == 200:
+            print("🎉 پیام با موفقیت به کانال تلگرام پرتاب شد!")
+        else:
+            print(f"⚠️ تلگرام ارور داد: {response.text}")
+    except Exception as e:
+        print(f"❌ خطا در ارسال به تلگرام: {e}")
 
 def main():
     print("🚀 استارت موتور جمع‌آوری پروکسی تلگرام...")
@@ -177,6 +233,9 @@ def main():
         if items:
             with open(f"countries/{cc}.txt", "w", encoding="utf-8") as f:
                 f.write("\n\n".join(items) + "\n")
+
+    # 🔥 ۵. پرتاب موشک به سمت کانال تلگرام
+    send_telegram_broadcast(alive_proxies)
 
     print("🎉 عملیات با موفقیت انجام شد!")
 
