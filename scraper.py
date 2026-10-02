@@ -18,7 +18,8 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 CHANNELS = [
     "ProxyMTProto", "TelMTProto", "Proxy_MTProto", 
     "MTProtoProxies", "proxyme", "PinkProxy", 
-    "ProxyDaemi", "MTP_roxy", "Tel_Proxies", "iProxyMTProto"
+    "ProxyDaemi", "MTP_roxy", "Tel_Proxies", "iProxyMTProto",
+    "chat_naakon", "chat_nakoni", "chat_nakoni", "chat_nakonnn"
 ]
 
 # 🌐 ۲. سورس‌های خام کمکی
