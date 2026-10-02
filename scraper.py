@@ -118,7 +118,7 @@ def get_country_code(server: str) -> str:
 
 def send_telegram_broadcast(alive_proxies):
     """
-    ارسال ۱۰ پروکسی برتر با کمترین پینگ به کانال تلگرام
+    ارسال ۲۰ پروکسی برتر با کمترین پینگ به کانال تلگرام
     به همراه لینک فعال‌سازی مستقیم با یک کلیک!
     """
     bot_token = os.getenv("TG_BOT_TOKEN")
@@ -132,7 +132,7 @@ def send_telegram_broadcast(alive_proxies):
         print("❌ پروکسی سالمی برای ارسال به تلگرام یافت نشد.")
         return
 
-    top_proxies = alive_proxies[:10]
+    top_proxies = alive_proxies[:20]
     
     message_lines = [
         "🚀 <b>پروکسی‌های جدید و پرسرعت شکار شدند!</b>",
