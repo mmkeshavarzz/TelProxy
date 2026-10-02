@@ -1,11 +1,1 @@
-tg://proxy?server=s11.assetflux.org&port=443&secret=ee777a1ab303a612c10198e713508bb840686f66662e7275
-
-tg://proxy?server=s8.assetflux.org&port=443&secret=ee6a472609cf495f3864be9bfe6c91c9fa646e732d73686f702e7275
-
-tg://proxy?server=x.shmelproxy.top&port=443&secret=eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275
-
-tg://proxy?server=topproxt.asia&port=443&secret=eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275
-
-tg://proxy?server=media9.happtg.org&port=443&secret=eeb10a2a5cbffbfc86bef9f85c14fada7d6f7a6f6e2e7275
-
-tg://proxy?server=cdn10.cdnwave.org&port=443&secret=ee42c25e3a5bebdab61abbcacf2e970c896d61676e69742e7275
+tg://proxy?server=kostyanchekloh.lol&port=443&secret=ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275

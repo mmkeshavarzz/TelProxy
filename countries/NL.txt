@@ -1,3 +1,1 @@
-tg://proxy?server=79.137.196.223&port=19443&secret=ee34faea79631cc8b7b884a3d513857e7b7777772e636c6f7564666c6172652e636f6d
-
-tg://proxy?server=proxy.proverka.help&port=443&secret=dd1a452ca2531bf0b6120cc3008ec6580b
+tg://proxy?server=proxy2.proverka.help&port=443&secret=dd15681a893dce1de72b83eb0a12d3dcac

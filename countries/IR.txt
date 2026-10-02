@@ -1,1 +1,1 @@
-tg://proxy?server=Server1.server-space52.info&port=80&secret=AAAAAAAAAAAAAAAAAAAAAA==
+tg://proxy?server=server.syscloudio.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
