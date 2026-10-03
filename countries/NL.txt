@@ -1,5 +1,1 @@
-tg://proxy?server=103.161.35.23&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
-
-tg://proxy?server=proxy2.proverka.help&port=443&secret=dd15681a893dce1de72b83eb0a12d3dcac
-
-tg://proxy?server=matrixxx.top&port=853&secret=eee4508d288bf81791177a2f5e73ac06cf6d617472697878782e746f70
+tg://proxy?server=103.161.35.23&port=443&secret=104462821249bd7ac519130220c25d09
