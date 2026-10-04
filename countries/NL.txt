@@ -1,3 +1,1 @@
-tg://proxy?server=92.246.87.243&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
-
-tg://proxy?server=92.246.87.130&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
+tg://proxy?server=mtproxygram.lol&port=853&secret=ee608f40eb7d1aad1fbc6405c5ed2669616d742e6d7470726f78796772616d2e6f6e6c696e65
