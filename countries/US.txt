@@ -1,9 +1,5 @@
-tg://proxy?server=208.87.242.223&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
-
 tg://proxy?server=85.133.236.147&port=2096&secret=ameuTC0XO0FodFQ1yzE6OQQ1yzE60Q
-
-tg://proxy?server=helps.help&port=2096&secret=dd6a67ae4c2d173b4168745435cb313a39
 
 tg://proxy?server=miosen.cyou&port=2096&secret=dd6a67ae4c2d173b4168745435cb313a39
 
-tg://proxy?server=akenai.tg&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b
+tg://proxy?server=helps.help&port=2096&secret=dd6a67ae4c2d173b4168745435cb313a39
