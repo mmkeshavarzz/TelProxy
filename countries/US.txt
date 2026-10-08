@@ -1,3 +1,1 @@
-tg://proxy?server=26.helps.help&port=2096&secret=ameuTC0XO0FodFQ1yzE6OQQ1yzE60Q
-
-tg://proxy?server=90.miosen.cyou&port=2096&secret=ameuTC0XO0FodFQ1yzE6OQQ1yzE60Q
+tg://proxy?server=akenai.tg&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b
