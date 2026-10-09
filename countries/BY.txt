@@ -1,0 +1,3 @@
+tg://proxy?server=cdnbarrel.org&port=443&secret=eef40e59f4a43e92b60b4d2edaec115d2e63646e62617272656c2e6f7267
+
+tg://proxy?server=lastochka.cloud&port=443&secret=ee808a439fd06ff8f421fbd35d65a445166c6173746f63686b612e636c6f7564
