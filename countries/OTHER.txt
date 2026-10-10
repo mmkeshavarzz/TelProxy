@@ -1,21 +1,35 @@
-tg://proxy?server=x.shmelproxy.top&port=443&secret=eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275
-
-tg://proxy?server=range-sal.browncolor.info&port=8443&secret=1603010200010001fc030386e24c3add
+tg://proxy?server=Arash-kamangir.ir.igakwvwa.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 
 tg://proxy?server=tazenafas.dingi3.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
 
-tg://proxy?server=zenon.flashspder.info&port=8443&secret=1603010200010001fc030386e24c3add
+tg://proxy?server=93.113.230.145&port=443&secret=FASTooGmYdaaVxJpA0SkKQ
 
-tg://proxy?server=41.hide.newflamingodomain.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=93.113.230.250&port=443&secret=dd6a67ae4c2d173b4168745435cb313a39
 
-tg://proxy?server=premium.speed-benz.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+tg://proxy?server=93.113.230.221&port=443&secret=dd6a67ae4c2d173b4168745435cb313a39
 
-tg://proxy?server=topproxt.asia&port=443&secret=eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275
+tg://proxy?server=severjadid.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
+
+tg://proxy?server=speed.runserver.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+
+tg://proxy?server=lte.mishutkin.click&port=443&secret=ee67af30bbe3543b32fd7b6966a61417e26c74652e6d69736875746b696e2e636c69636b
+
+tg://proxy?server=New.nchnch.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
+
+tg://proxy?server=ir.ataman.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
+
+tg://proxy?server=nakoshimon-jomong.lolauth.info&port=8443&secret=1603010200010001fc030386e24c3add
+
+tg://proxy?server=vasalshim.mamadgoli.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
 
 tg://proxy?server=akenai.tg&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b
 
-tg://proxy?server=dizgrakh.mamadali.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=ir.genesbyjohn.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
 
-tg://proxy?server=ultra.mishutkin.click&port=443&secret=eed02e349163d9ea4376a2ae6a94fc550b64726976652e676f6f676c652e636f6d
+tg://proxy?server=whiteblox.org&port=4455&secret=dd104462821249bd7ac519130220c25d09
 
-tg://proxy?server=miosen.cyou&port=2096&secret=dd6a67ae4c2d173b4168745435cb313a39
+tg://proxy?server=royaclinic.beauty&port=4455&secret=dd104462821249bd7ac519130220c25d09
+
+tg://proxy?server=cdnbarrel.org&port=443&secret=eef40e59f4a43e92b60b4d2edaec115d2e63646e62617272656c2e6f7267
+
+tg://proxy?server=comback-all.hosiyaman.info&port=8443&secret=1603010200010001fc030386e24c3add
