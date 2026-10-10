@@ -1,65 +1,51 @@
-tg://proxy?server=136.243.195.203&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
-
 tg://proxy?server=167.233.89.249&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQA
 
 tg://proxy?server=88.99.175.124&port=8&secret=ameuTC0XO0FodFQ1yzE6OQQ1yzE60Q
 
-tg://proxy?server=91.107.170.251&port=8443&secret=79e344818749bd7ac519130220c25d09
-
 tg://proxy?server=91.107.190.68&port=8443&secret=79e344818749bd7ac519130220c25d09
 
-tg://proxy?server=aseman.lunavane.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+tg://proxy?server=91.107.170.251&port=8443&secret=79e344818749bd7ac519130220c25d09
 
-tg://proxy?server=darya.saheledarya.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
-
-tg://proxy?server=mio.mozitop.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
-
-tg://proxy?server=irluxcars.site&port=4455&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=jhndoes.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 
 tg://proxy?server=royaclinic.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
 
-tg://proxy?server=puot.mozitop.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+tg://proxy?server=luxuryman.sbs&port=4455&secret=dd104462821249bd7ac519130220c25d09
 
-tg://proxy?server=ving.mozitop.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+tg://proxy?server=premium.speed-benz.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 
-tg://proxy?server=royaclinic.beauty&port=4455&secret=dd104462821249bd7ac519130220c25d09
-
-tg://proxy?server=whiteblox.org&port=4455&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=iran.bingi.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
 
 tg://proxy?server=ahvaz.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
 
-tg://proxy?server=pphhg.ir.meli-n13.info&port=8443&secret=104462821249bd7ac519130220c25d09
+tg://proxy?server=comback-all.hosiyaman.info&port=8443&secret=1603010200010001fc030386e24c3add
 
-tg://proxy?server=math-test.bypased.info&port=8443&secret=1603010200010001fc030386e24c3add
-
-tg://proxy?server=dd7d8ujjjh.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
-
-tg://proxy?server=61.ir.mmd.yayayajd.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
-
-tg://proxy?server=Yaghoub.Leys.Safari.ir.igakwvwa.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ
-
-tg://proxy?server=Rostam.ir.igakwvwa.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ
-
-tg://proxy?server=khande-bar-lab-mizanam.lolauth.info&port=8443&secret=1603010200010001fc030386e24c3add
-
-tg://proxy?server=nakoshimon-jomong.lolauth.info&port=8443&secret=1603010200010001fc030386e24c3add
-
-tg://proxy?server=vizhzhzhzhzh.bypased.info&port=8443&secret=1603010200010001fc030386e24c3add
+tg://proxy?server=irluxcars.site&port=4455&secret=dd104462821249bd7ac519130220c25d09
 
 tg://proxy?server=portal.flashspder.info&port=8443&secret=1603010200010001fc030386e24c3add
 
-tg://proxy?server=ir.genesbyjohn.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
-
-tg://proxy?server=Arash-kamangir.ir.igakwvwa.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ
-
-tg://proxy?server=luxuryman.sbs&port=4455&secret=dd104462821249bd7ac519130220c25d09
-
-tg://proxy?server=ir.ataman.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
+tg://proxy?server=dns.speed-benz.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 
 tg://proxy?server=6781.ir.mmd.yayayajd.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
 
-tg://proxy?server=pintrest-cool.browncolor.info&port=8443&secret=1603010200010001fc030386e24c3add
+tg://proxy?server=61.ir.mmd.yayayajd.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
+
+tg://proxy?server=royaclinic.beauty&port=4455&secret=dd104462821249bd7ac519130220c25d09
+
+tg://proxy?server=im.dumaniltd.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+
+tg://proxy?server=ccc.horizon555.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 
 tg://proxy?server=becarefull.bypased.info&port=8443&secret=1603010200010001fc030386e24c3add
 
-tg://proxy?server=comback-all.hosiyaman.info&port=8443&secret=1603010200010001fc030386e24c3add
+tg://proxy?server=dd7d8ujjjh.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
+
+tg://proxy?server=whiteblox.org&port=4455&secret=dd104462821249bd7ac519130220c25d09
+
+tg://proxy?server=persia.bingi.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
+
+tg://proxy?server=vizhzhzhzhzh.bypased.info&port=8443&secret=1603010200010001fc030386e24c3add
+
+tg://proxy?server=math-test.bypased.info&port=8443&secret=1603010200010001fc030386e24c3add
+
+tg://proxy?server=pintrest-cool.browncolor.info&port=8443&secret=1603010200010001fc030386e24c3add
