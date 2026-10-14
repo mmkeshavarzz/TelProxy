@@ -19,6 +19,7 @@ CHANNELS = [
     "ProxyMTProto", "TelMTProto", "Proxy_MTProto", 
     "MTProtoProxies", "proxyme", "PinkProxy", 
     "ProxyDaemi", "MTP_roxy", "Tel_Proxies", "iProxyMTProto",
+    "mizban_proxy","mineproxy","",""
     "chat_naakon", "chat_nakoni", "chat_nakoni", "chat_nakonnn"
 ]
 
