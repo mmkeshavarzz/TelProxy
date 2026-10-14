@@ -1,31 +1,21 @@
 tg://proxy?server=arc.lovely.lat&port=443&secret=ee488f2074bd7e65b7dece8cdab27987046c69746536342e73697465
 
-tg://proxy?server=a17.mtproxy.cc&port=443&secret=ee96843ce62d85e0df660996e4a863cbde6c69746536342e73697465
+tg://proxy?server=ultra.mishutkin.click&port=443&secret=eed02e349163d9ea4376a2ae6a94fc550b64726976652e676f6f676c652e636f6d
 
-tg://proxy?server=metro3.mtproxy.pw&port=443&secret=ee323d9607b8a32f86e344534d0e855d226c69746536342e73697465
+tg://proxy?server=ultra.mishutkin.click&port=443&secret=eed02e349163d9ea4376a2ae6a94fc550b64726976652e676f6f676c652e636f6d
+
+tg://proxy?server=virane91.p.lite64.click&port=443&secret=eecfe0e7ff882006236808e48af4ca531c6c69746536342e73697465
 
 tg://proxy?server=haven.mtproxy.cc&port=443&secret=eed713bf198d27cb7b4c0c74b9004fbaf46c69746536342e73697465
 
-tg://proxy?server=max.mishutkin.click&port=443&secret=ee94989d74ad055391384d92c3c773c8d264726976652e676f6f676c652e636f6d
+tg://proxy?server=turbo.mtproxy.pw&port=443&secret=ee776e278c3085b3f903843d06420709516c69746536342e73697465
 
 tg://proxy?server=wave.lovely.lat&port=443&secret=ee8125767ead83e3a68ce6c864e28c7b4d6c69746536342e73697465
 
-tg://proxy?server=fleet.lovely.lat&port=443&secret=ee597076a2a414cba9c1d4a03979ba62796c69746536342e73697465
-
-tg://proxy?server=aurora.lovely.lat&port=443&secret=ee874043a7743d706926ef028afcfcec666c69746536342e73697465
-
-tg://proxy?server=link2.mtproxy.pw&port=443&secret=ee486cbda73d68605a42625d7f3d4276e8786170692e6f7a6f6e2e7275
-
-tg://proxy?server=orbit.mtp.lat&port=443&secret=ee09bcb48876795874b1ac8c24940ebff76c69746536342e73697465
-
-tg://proxy?server=public.mtproxy.zip&port=443&secret=eed254c766afb963c29c09cb8d382c055f6c69746536342e73697465
-
-tg://proxy?server=data.lovely.lat&port=443&secret=eebf84e2a14adc7fb361e00d3b8a7e000a6c69746536342e73697465
+tg://proxy?server=kamipo69.p.lite64.xyz&port=443&secret=ee425883d8e3a1cf13ce05b6881d0c0b416c69746536342e73697465
 
 tg://proxy?server=api.mtproxy.zip&port=443&secret=ee261e47b390ba2ea937693039177861d56c69746536342e73697465
 
-tg://proxy?server=portal.mtjlpoto.fit&port=443&secret=ee4e5301d8840c786333cff0001a993e85786170692e6f7a6f6e2e7275
+tg://proxy?server=a17.mtproxy.cc&port=443&secret=ee96843ce62d85e0df660996e4a863cbde6c69746536342e73697465
 
-tg://proxy?server=a03.lovely.lat&port=443&secret=ee68d6a83140657a1c7bf8e64d98ce9432786170692e6f7a6f6e2e7275
-
-tg://proxy?server=fast.mtp.mom&port=443&secret=ee51c8b871ae7a470814adb0c5da1f11dd6c69746536342e73697465
+tg://proxy?server=fleet.lovely.lat&port=443&secret=ee597076a2a414cba9c1d4a03979ba62796c69746536342e73697465
