@@ -20,6 +20,8 @@ CHANNELS = [
     "MTProtoProxies", "proxyme", "PinkProxy", 
     "ProxyDaemi", "MTP_roxy", "Tel_Proxies", "iProxyMTProto",
     "mizban_proxy","mineproxy","TProxyRU",
+    "iRoProxy","proxymtprotoir","myporoxy",
+    "darkproxy",
     "chat_naakon", "chat_nakoni", "chat_nakoni", "chat_nakonnn"
 ]
 
