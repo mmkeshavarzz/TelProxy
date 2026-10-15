@@ -1,17 +1,27 @@
-tg://proxy?server=ultra.mishutkin.click&port=443&secret=eed02e349163d9ea4376a2ae6a94fc550b64726976652e676f6f676c652e636f6d
-
-tg://proxy?server=toka69.velvetoak.work&port=443&secret=ee1fb23d3871d7fb9570f26aee4fc6456b6c69746536342e73697465
-
 tg://proxy?server=maka16.velvetoak.work&port=443&secret=ee0a8b639e100bea3b89339f7b9e0742fb6c69746536342e73697465
 
-tg://proxy?server=virane91.p.lite64.click&port=443&secret=eecfe0e7ff882006236808e48af4ca531c6c69746536342e73697465
+tg://proxy?server=ultra.mishutkin.click&port=443&secret=eed02e349163d9ea4376a2ae6a94fc550b64726976652e676f6f676c652e636f6d
+
+tg://proxy?server=fast.mishutkin.click&port=443&secret=eef767ebee5708dadc985d58ad6e04560664726976652e676f6f676c652e636f6d
 
 tg://proxy?server=lite64tg.mtproxy.pw&port=443&secret=ee90a2fdedffe52c2562934f4d96513b196c69746536342e73697465
 
+tg://proxy?server=fleet.mtjlpoto.fit&port=443&secret=eefd70c0c10b4b13bbbad6d395ad6758ec6c69746536342e73697465
+
+tg://proxy?server=dene60.hollowfern.sbs&port=443&secret=ee0452c14b5e3aa0002b94fed71957540a6c69746536342e73697465
+
+tg://proxy?server=seven.mtproxy.pw&port=443&secret=ee1cc4469f48e510ff94041731920d66986c69746536342e73697465
+
+tg://proxy?server=point.mtproxy.pw&port=443&secret=ee25ab9c29d445aeb5ecdf93b5c1e0512f6c69746536342e73697465
+
+tg://proxy?server=zone.mtproxy.cc&port=443&secret=eeb12bab8984767b541b49f7be2341edc86c69746536342e73697465
+
+tg://proxy?server=proxy.mtproxy.pw&port=443&secret=ee7afbfaafa7228f6d84fd6c8aad45546a6c69746536342e73697465
+
+tg://proxy?server=a09.lovely.lat&port=443&secret=ee9e296c2cf6c9bde4a1a9f6cf2015749b6c69746536342e73697465
+
+tg://proxy?server=sync.mtproxy.cc&port=443&secret=eeb1aed35159f92f2c2664da4ec774c9826c69746536342e73697465
+
 tg://proxy?server=signal.mtp.mom&port=443&secret=eeb18bb8c019bf022611a46377e3f0262a6c69746536342e73697465
 
-tg://proxy?server=a17.mtproxy.cc&port=443&secret=ee96843ce62d85e0df660996e4a863cbde6c69746536342e73697465
-
-tg://proxy?server=haven.mtproxy.cc&port=443&secret=eed713bf198d27cb7b4c0c74b9004fbaf46c69746536342e73697465
-
-tg://proxy?server=ultra.mishutkin.click&port=443&secret=eed02e349163d9ea4376a2ae6a94fc550b64726976652e676f6f676c652e636f6d
+tg://proxy?server=toka69.velvetoak.work&port=443&secret=ee1fb23d3871d7fb9570f26aee4fc6456b6c69746536342e73697465
