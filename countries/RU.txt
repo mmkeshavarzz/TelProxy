@@ -2,6 +2,4 @@ tg://proxy?server=x.shmelproxy.top&port=443&secret=eefc2612ff65a557fddf1d1b33439
 
 tg://proxy?server=tg1-ru3.chadvpn.shop&port=8443&secret=ee51cfaa7826e4faea33f0c4588defd1677467312d7275332e6368616476706e2e73686f70
 
-tg://proxy?server=tg2-ru3.chadvpn.shop&port=8443&secret=ee51cfaa7826e4faea33f0c4588defd1677467312d7275332e6368616476706e2e73686f70
-
 tg://proxy?server=topproxt.asia&port=443&secret=eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275
