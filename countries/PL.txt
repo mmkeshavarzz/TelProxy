@@ -1,23 +1,23 @@
+tg://proxy?server=maka49.hollowfern.sbs&port=443&secret=ee7d55edf670ee5888c7f4368395f692006c69746536342e73697465
+
 tg://proxy?server=zolony22.lite64.xyz&port=443&secret=ee9f8bd664e299f9a95891232c42f8806a6c69746536342e73697465
 
 tg://proxy?server=a21.mtjlpoto.fit&port=443&secret=ee22ff46ecf593ff44c7fc90b6a356e56b6c69746536342e73697465
+
+tg://proxy?server=top.mishutkin.click&port=443&secret=ee4b5ba12e11065746126723c1a1baf54d64726976652e676f6f676c652e636f6d
 
 tg://proxy?server=a21.mtjlpoto.fit&port=443&secret=ee22ff46ecf593ff44c7fc90b6a356e56b6c69746536342e73697465
 
 tg://proxy?server=point.mtproxy.pw&port=443&secret=ee25ab9c29d445aeb5ecdf93b5c1e0512f6c69746536342e73697465
 
-tg://proxy?server=top.mishutkin.click&port=443&secret=ee4b5ba12e11065746126723c1a1baf54d64726976652e676f6f676c652e636f6d
-
-tg://proxy?server=a29.lovely.lat&port=443&secret=ee30f447b0558f9991b874981c89b332c26c69746536342e73697465
-
 tg://proxy?server=kapopo47.lite64.top&port=443&secret=eece3e2e2820eac71be8f06a9cd893abc06c69746536342e73697465
 
-tg://proxy?server=zolony22.lite64.xyz&port=443&secret=ee9f8bd664e299f9a95891232c42f8806a6c69746536342e73697465
+tg://proxy?server=a29.lovely.lat&port=443&secret=ee30f447b0558f9991b874981c89b332c26c69746536342e73697465
 
 tg://proxy?server=rimany75.pebblewisp.xyz&port=443&secret=ee5eb2895dd175087e3f92cb1993c67db36c69746536342e73697465
 
 tg://proxy?server=maka49.hollowfern.sbs&port=443&secret=ee7d55edf670ee5888c7f4368395f692006c69746536342e73697465
 
-tg://proxy?server=maka49.hollowfern.sbs&port=443&secret=ee7d55edf670ee5888c7f4368395f692006c69746536342e73697465
+tg://proxy?server=zolony22.lite64.xyz&port=443&secret=ee9f8bd664e299f9a95891232c42f8806a6c69746536342e73697465
 
 tg://proxy?server=fleet.mtjlpoto.fit&port=443&secret=eefd70c0c10b4b13bbbad6d395ad6758ec6c69746536342e73697465
