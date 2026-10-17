@@ -1,3 +1,5 @@
 tg://proxy?server=kostyanchekloh.lol&port=443&secret=ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275
 
 tg://proxy?server=x.shmelproxy.top&port=443&secret=eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275
+
+tg://proxy?server=newtg.flightv.online&port=443&secret=eef6d305d0515c6c3f9b5e0f045fa422646e657774672e666c69676874762e6f6e6c696e65
