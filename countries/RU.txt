@@ -1,5 +1,5 @@
 tg://proxy?server=tg1-ru4.chadvpn.shop&port=8443&secret=eed1701b28cde5b617b23263cf5e601dae7467312d7275342e6368616476706e2e73686f70
 
-tg://proxy?server=x.shmelproxy.top&port=443&secret=eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275
-
 tg://proxy?server=kostyanchekloh.lol&port=443&secret=ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275
+
+tg://proxy?server=x.shmelproxy.top&port=443&secret=eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275
