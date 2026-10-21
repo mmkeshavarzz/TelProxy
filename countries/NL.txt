@@ -1,5 +1,1 @@
-tg://proxy?server=free.patrickkvn.space&port=1443&secret=ee2fe1db8abc6f21e54b344f1b1deb094c706563686b612d626f63686b612e7275
-
 tg://proxy?server=max.kimt.click&port=443&secret=ee1b153cf06dbd43c6085c359a6702eb936d61782e6b696d742e636c69636b
-
-tg://proxy?server=mt.wexproxy.com&port=8443&secret=7kJv1rlqqtc0CbrNK0ZTvkdjbG91ZGZsYXJlLmNvbQ
