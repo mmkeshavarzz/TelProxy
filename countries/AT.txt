@@ -1,0 +1,1 @@
+tg://proxy?server=s1.moworkvpn.site&port=443&secret=ee7f544ee791d0f5b888d20b955d16b2f1737461636b6f766572666c6f772e636f6d
