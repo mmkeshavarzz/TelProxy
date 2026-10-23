@@ -1,1 +1,5 @@
-tg://proxy?server=s2.moworkvpn.site&port=8443&secret=ee8da87e8ee453db25d1f0cb08f544c1296a6574627261696e732e636f6d
+tg://proxy?server=api.godserver52.info&port=443&secret=AAAAAAAAAAAAAAAAAAAAAA==
+
+tg://proxy?server=Magic.godserver52.info&port=443&secret=AAAAAAAAAAAAAAAAAAAAAA==
+
+tg://proxy?server=loud-teal.godserver52.info&port=443&secret=AAAAAAAAAAAAAAAAAAAAAA==
