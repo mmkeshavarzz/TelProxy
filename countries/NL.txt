@@ -1,5 +1,5 @@
-tg://proxy?server=api.godserver52.info&port=443&secret=AAAAAAAAAAAAAAAAAAAAAA==
-
 tg://proxy?server=Magic.godserver52.info&port=443&secret=AAAAAAAAAAAAAAAAAAAAAA==
 
 tg://proxy?server=loud-teal.godserver52.info&port=443&secret=AAAAAAAAAAAAAAAAAAAAAA==
+
+tg://proxy?server=api.godserver52.info&port=443&secret=AAAAAAAAAAAAAAAAAAAAAA==
