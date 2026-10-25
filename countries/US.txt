@@ -1,3 +1,1 @@
-tg://proxy?server=Tahmworth.ir.aysghfkzcxg.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ
-
 tg://proxy?server=tg5.uniq.care&port=443&secret=7sPIJG8F08L1w_fI25oY2ld0ZzUudW5pcS5jYXJl
