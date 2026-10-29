@@ -1,67 +1,67 @@
-tg://proxy?server=95.217.135.241&port=443&secret=7pJZSUjIp-43RmluNUkNmWNkbnMuZ28vZ2xlImNvbG==
-
-tg://proxy?server=95.217.135.241&port=443&secret=7pJZSUjIp-43RmluNUkNmWNkbnMuZ18vZ3xlLmNvbQ==
-
-tg://proxy?server=65.109.98.231&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
-
-tg://proxy?server=95.217.135.241&port=443&secret=7pJZSUjIp-43RmluNUkNmWNkbnMuZ14vZ2xlLmNvbQ==
+tg://proxy?server=95.217.135.241&port=443&secret=7pJZSUjIp-43RmluNUkNmWNkbnMuZ29vZ2xlLmNvbQ=m
 
 tg://proxy?server=95.217.135.241&port=443&secret=7pJZSUjIp-43RmluNUkNmWNkbnMuZ11vZ2xlLmNvbQ==
 
-tg://proxy?server=62.238.62.179&port=8443&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=95.217.135.241&port=443&secret=7pJZSUjIp-43RmluNUkNmWNkbnMuZ18vZ3xlLmNvbQ==
 
 tg://proxy?server=95.217.135.241&port=443&secret=7pJZSUjIp-43RmluNUkNmWNkbnMuZ29vZ3xlLmNvbQ==
 
+tg://proxy?server=95.217.135.241&port=443&secret=7pJZSUjIp-43RmluNUkNmWNkbnMuZ29vZ2xlLmNvbG==
+
+tg://proxy?server=95.217.135.241&port=443&secret=7pJZSUjIp-43RmluNUkNmWNkbnMuZ14vZ2xlLmNvbQ==
+
+tg://proxy?server=95.217.135.241&port=443&secret=7pJZSUjIp-43RmluNUkNmWNkbnMuZ29vZ2xlImNvbG==
+
 tg://proxy?server=95.217.135.241&port=443&secret=7pJZSUjIp-43RmluNUkNmWNkbnMuZ19vZ2xlLmNvbQ==
 
-tg://proxy?server=62.238.63.143&port=8443&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=95.217.135.241&port=443&secret=7pJZSUjIp-43RmluNUkNmWNkbnMuZ18vZ2xlLmNvbQ==
 
 tg://proxy?server=95.217.135.241&port=443&secret=7pJZSUjIp-43RmluNUkNmWNkbnMuZ15vZ2xlLmNvbQ==
 
 tg://proxy?server=95.217.135.241&port=443&secret=7pJZSUjIp-43RmluNUkNmWNkbnMuZ29vZ2clLmNvbQ==
 
-tg://proxy?server=95.217.135.241&port=443&secret=7pJZSUjIp-43RmluNUkNmWNkbnMuZ29vZ2xlLmNvbQ=m
-
-tg://proxy?server=95.217.135.241&port=443&secret=7pJZSUjIp-43RmluNUkNmWNkbnMuZ29vZ2xlImNvbG==
-
-tg://proxy?server=95.217.135.241&port=443&secret=7pJZSUjIp-43RmluNUkNmWNkbnMuZ29vZ2xlLmNvbG==
-
-tg://proxy?server=95.217.135.241&port=443&secret=7pJZSUjIp-43RmluNUkNmWNkbnMuZ18vZ2xlLmNvbQ==
-
-tg://proxy?server=Hel-hi.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d
-
-tg://proxy?server=Strait-of-Hormuz.ir.bcsadwtgd.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ
-
-tg://proxy?server=bimeh.my-moon.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
-
-tg://proxy?server=n858.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
-
-tg://proxy?server=788n88.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
-
-tg://proxy?server=Speed-speed.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d
-
-tg://proxy?server=67n88.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
-
-tg://proxy?server=din5gli2.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=95.217.135.241&port=443&secret=7pJZSUjIp-43RmluNUkNmWNkbnMuZ28vZ2xlImNvbG==
 
 tg://proxy?server=jadid.porsorate.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
 
-tg://proxy?server=pofak.mikhay.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
+tg://proxy?server=3etare.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 
-tg://proxy?server=Suodbo.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d
+tg://proxy?server=bimeh.my-moon.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 
-tg://proxy?server=Tond.strobox.info&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b
+tg://proxy?server=mofid.saheledarya.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 
-tg://proxy?server=nocloudnew.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+tg://proxy?server=din5gli2.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
 
 tg://proxy?server=dingi3.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
 
+tg://proxy?server=amoo.bingi.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
+
+tg://proxy?server=pofak.mikhay.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
+
+tg://proxy?server=Rudmoain.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d
+
+tg://proxy?server=nocloudnew.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+
+tg://proxy?server=honar.saheledarya.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+
+tg://proxy?server=jadide.mamadali.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
+
+tg://proxy?server=kasco.alhosein.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
+
+tg://proxy?server=bo0ji.co.uk.&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b
+
+tg://proxy?server=n868.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
+
+tg://proxy?server=Speed-speed.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d
+
+tg://proxy?server=Suodbo.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d
+
+tg://proxy?server=67n88.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
+
 tg://proxy?server=yarypple.co.uk.&port=4455&secret=dd104462821249bd7ac519130220c25d09
 
-tg://proxy?server=ir-ir.xeonxu.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
+tg://proxy?server=n858.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
 
 tg://proxy?server=ir-ir.panhandleflyers.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
 
-tg://proxy?server=3etare.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
-
-tg://proxy?server=Rudmoain.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d
+tg://proxy?server=788n88.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
