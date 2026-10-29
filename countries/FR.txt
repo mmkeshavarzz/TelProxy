@@ -1,1 +1,1 @@
-tg://proxy?server=t5.nevcodeframe.com&port=443&secret=ee4e7e658f96af22ada977fa3e2e472e6274352e6e6576636f64656672616d652e636f6d
+tg://proxy?server=surf.suslik-cloud.com&port=443&secret=eed7f61466f824eafe116a533553e01bca737572662e7375736c696b2d636c6f75642e636f6d
