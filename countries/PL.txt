@@ -1,5 +1,5 @@
-tg://proxy?server=Sorena.ir.igakwvwa.info&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+tg://proxy?server=pooran.ir.awedsj.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 
 tg://proxy?server=Ariobarzanes.ir.igakwvwa.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 
-tg://proxy?server=pooran.ir.awedsj.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+tg://proxy?server=Sorena.ir.igakwvwa.info&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ
