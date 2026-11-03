@@ -1,1 +1,1 @@
-tg://proxy?server=45.195.250.70&port=443&secret=ddb83572a117470fd34eee07134d361f0b
+tg://proxy?server=storagexx.space&port=443&secret=ee24b61556a3ec49bc0c7a5a7e8525702873746f7261676578782e7370616365
