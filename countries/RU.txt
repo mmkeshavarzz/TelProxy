@@ -1,1 +1,1 @@
-tg://proxy?server=109.120.183.165&port=2302&secret=2084c7e58d8213296a3206da70356c81
+tg://proxy?server=tg.wequ.lat&port=443&secret=0289a13d961b91438fea5069a8097cb3
