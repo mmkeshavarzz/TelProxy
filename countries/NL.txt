@@ -1,11 +1,5 @@
-tg://proxy?server=92.246.87.242&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
-
 tg://proxy?server=176.65.135.69&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
 
+tg://proxy?server=92.246.87.242&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
+
 tg://proxy?server=195.62.32.55&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
-
-tg://proxy?server=z1.nevcodeframe.com&port=443&secret=eee5e0d75865263bccabe94c92f446184f7a312e6e6576636f64656672616d652e636f6d
-
-tg://proxy?server=s4.zentconnect.xyz&port=853&secret=7uVtKuCy6tRJSvU7EIZdrWRzMS56ZW50Y29ubmVjdC54eXo
-
-tg://proxy?server=s4.zentnetwork.xyz&port=853&secret=7jPZCakf82Lgd43TljG4N9tzMS56ZW50bmV0d29yay54eXo
