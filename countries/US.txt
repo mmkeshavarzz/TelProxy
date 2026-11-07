@@ -1,1 +1,1 @@
-tg://proxy?server=proxy.nizya.club&port=443&secret=ee05cf8e164f926f4a664b2404d276a1d670726f78792e6e697a79612e636c7562
+tg://proxy?server=18.216.73.109&port=443&secret=0bc2ca2843411272cace1e4436cd83f1
