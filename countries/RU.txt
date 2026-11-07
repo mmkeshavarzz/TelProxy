@@ -1,3 +1,1 @@
-tg://proxy?server=tg.wequ.lat&port=443&secret=0289a13d961b91438fea5069a8097cb3
-
 tg://proxy?server=m.lumenpost.top&port=443&secret=eeadb7cfebd78712e71db745c9da7281b16d2e6c756d656e706f73742e746f70
