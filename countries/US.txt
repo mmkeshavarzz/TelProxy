@@ -1,1 +1,1 @@
-tg://proxy?server=18.216.73.109&port=443&secret=0bc2ca2843411272cace1e4436cd83f1
+tg://proxy?server=de-p1.h1cloud.net&port=25153&secret=ee0c63bf0d9b4a6cb5455e677bad52bf8b6d61782e7275
