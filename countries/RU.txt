@@ -1,5 +1,1 @@
-tg://proxy?server=vk02.camdvr.org&port=5493&secret=eedc9cc5535051a23765d0b50fbb5a5d8c7777772e73616d73756e672e636f6d
-
-tg://proxy?server=tghost.accesscam.org&port=7997&secret=eef8ceedada37935dbe4db815b0424a846626979736b32322e7275
-
-tg://proxy?server=n7d626c.lumenpost.top&port=443&secret=ee0b03536395a48484bf73aadee0e37dd46d2e6c756d656e706f73742e746f70
+tg://proxy?server=coinvpnpro.duckdns.org&port=443&secret=ee3c23bf23e13aff489d37ab8181e48144636f696e76706e70726f2e6475636b646e732e6f7267
