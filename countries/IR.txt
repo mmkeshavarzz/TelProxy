@@ -1,1 +1,5 @@
-tg://proxy?server=93.113.230.145&port=912&secret=ArGwwI4DFrWvCT5RGmtOVA
+tg://proxy?server=server93.server-space52.info&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA==
+
+tg://proxy?server=server63.server-space52.info&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA==
+
+tg://proxy?server=server83.server-space52.info&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA==
