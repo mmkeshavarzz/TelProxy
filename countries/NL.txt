@@ -1,13 +1,1 @@
-tg://proxy?server=4x4.subaru-volga.com&port=443&secret=ee54701e1686de96a44721501a7bee9e4c6c796e657474652e6d79726b612e6469676974616c
-
-tg://proxy?server=194.120.230.37&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
-
-tg://proxy?server=194.120.230.40&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
-
-tg://proxy?server=103.161.35.56&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
-
-tg://proxy?server=tazenafas.dingi3.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
-
-tg://proxy?server=kasco.alhosein.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
-
 tg://proxy?server=barsik.subaru-volga.com&port=443&secret=ee04daa35f7150d1d16c43f270c26831086a61726b6f2e6d79726b612e6469676974616c
