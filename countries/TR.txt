@@ -1,1 +1,1 @@
-tg://proxy?server=yydwb.proxytg.fit&port=443&secret=eee10c45d4bea31923b7540545f769af3b79796477622e70726f787974672e666974
+tg://proxy?server=v4c2w.proxydazhenaparkovke.site&port=443&secret=eead68fade400c2e0cb6c663196bc65e4276346332772e70726f787964617a68656e617061726b6f766b652e73697465
