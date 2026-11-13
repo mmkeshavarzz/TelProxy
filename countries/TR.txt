@@ -1,0 +1,1 @@
+tg://proxy?server=yydwb.proxytg.fit&port=443&secret=eee10c45d4bea31923b7540545f769af3b79796477622e70726f787974672e666974
