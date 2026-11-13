@@ -1,7 +1,3 @@
-tg://proxy?server=mediaone91.mtpvideo.my&port=443&secret=dd616cf892574b078aab3f73e63b8b7df4
-
-tg://proxy?server=playplus.mtproxy.me&port=443&secret=ee616cf892574b078aab3f73e63b8b7df4786170692e6f7a6f6e2e7275
-
-tg://proxy?server=max.fastprx.top&port=443&secret=eecfa453767a4b15622b61914eced5705164726976652e676f6f676c652e636f6d
-
 tg://proxy?server=top.fastprx.top&port=443&secret=ee2eaa3efe26957df17447871a78aa19b064726976652e676f6f676c652e636f6d
+
+tg://proxy?server=gram.prxtg.top&port=443&secret=eeabde1be2accd3413ec8e8a0fa256287f64726976652e676f6f676c652e636f6d

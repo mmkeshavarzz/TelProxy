@@ -1,71 +1,79 @@
 tg://proxy?server=46.225.35.245&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQA
 
-tg://proxy?server=5.75.252.233&port=8443&secret=dd104462821249bd7ac519130220c25d09
-
 tg://proxy?server=5.75.226.255&port=75&secret=ameuTC0XO0FodFQ1yzE6OQQ1yzE60Q
 
 tg://proxy?server=5.75.226.255&port=75&secret=ameuTC0XO0FodFQ1yzE6OQ
 
-tg://proxy?server=78.46.240.254&port=8443&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=5.75.252.233&port=8443&secret=dd104462821249bd7ac519130220c25d09
 
-tg://proxy?server=78.47.131.66&port=8443&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=persian.gulf.ir.bcsadwtgd.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 
-tg://proxy?server=mio.mozitop.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
-
-tg://proxy?server=exiscos.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
-
-tg://proxy?server=ir.lv426.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
-
-tg://proxy?server=puot.mozitop.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+tg://proxy?server=comback-all.hosiyaman.info&port=8443&secret=1603010200010001fc030386e24c3add
 
 tg://proxy?server=panel.hook--tehran.co.uk.&port=443&secret=3RBEYoISSb16xRkTAiDCXQk=
 
 tg://proxy?server=jhndoes.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 
-tg://proxy?server=ir-ir.barhousefarm.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
-
-tg://proxy?server=predator-artist.top&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b
-
-tg://proxy?server=speed.runserver.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
-
-tg://proxy?server=one.horizon555.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
-
-tg://proxy?server=support.infinityhalo.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
-
-tg://proxy?server=akenai.top&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b
-
-tg://proxy?server=MAP.cooptoop.site.&port=443&secret=3RBEYoISSb16xRkTAiDCXQk=
-
-tg://proxy?server=ccc.horizon555.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+tg://proxy?server=vizhzhzhzhzh.bypased.info&port=8443&secret=1603010200010001fc030386e24c3add
 
 tg://proxy?server=17.new1.ramkal12.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
 
-tg://proxy?server=im.dumaniltd.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+tg://proxy?server=78.47.131.66&port=8443&secret=dd104462821249bd7ac519130220c25d09
 
-tg://proxy?server=becarefull.bypased.info&port=8443&secret=1603010200010001fc030386e24c3add
+tg://proxy?server=termsnal.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 
-tg://proxy?server=ir.mohearn.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
+tg://proxy?server=78.46.240.254&port=8443&secret=dd104462821249bd7ac519130220c25d09
 
-tg://proxy?server=gole-sorati.golabkashan.info&port=8443&secret=1603010200010001fc030386e24c3add
+tg://proxy?server=puot.mozitop.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 
-tg://proxy?server=tg.getrocket.me&port=443&secret=eef84b5bf22712eba2c12b8c0582237add74672e676574726f636b65742e6d65
+tg://proxy?server=mio.mozitop.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 
-tg://proxy?server=khare-gol.golabkashan.info&port=8443&secret=1603010200010001fc030386e24c3add
+tg://proxy?server=Caspian-sea.ir.bcsadwtgd.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 
-tg://proxy?server=atr.golabkashan.info&port=8443&secret=1603010200010001fc030386e24c3add
+tg://proxy?server=darya.saheledarya.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 
 tg://proxy?server=614.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
 
-tg://proxy?server=haji-jan.golabkashan.info&port=8443&secret=1603010200010001fc030386e24c3add
+tg://proxy?server=strong.hosiyaman.info&port=8443&secret=1603010200010001fc030386e24c3add
 
-tg://proxy?server=vizhzhzhzhzh.bypased.info&port=8443&secret=1603010200010001fc030386e24c3add
+tg://proxy?server=gole-sorati.golabkashan.info&port=8443&secret=1603010200010001fc030386e24c3add
 
-tg://proxy?server=gardeshgar.miandoabs.info&port=8443&secret=1603010200010001fc030386e24c3add
+tg://proxy?server=ccc.horizon555.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+
+tg://proxy?server=support.infinityhalo.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+
+tg://proxy?server=exiscos.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+
+tg://proxy?server=im.dumaniltd.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+
+tg://proxy?server=MAP.cooptoop.site.&port=443&secret=3RBEYoISSb16xRkTAiDCXQk=
+
+tg://proxy?server=aseman.lunavane.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+
+tg://proxy?server=one.horizon555.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+
+tg://proxy?server=speed.runserver.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+
+tg://proxy?server=16.new1.ramkal12.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
+
+tg://proxy?server=Pasargad.ir.bcsadwtgd.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+
+tg://proxy?server=ir-ir.barhousefarm.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
+
+tg://proxy?server=math-test.bypased.info&port=8443&secret=1603010200010001fc030386e24c3add
+
+tg://proxy?server=atr.golabkashan.info&port=8443&secret=1603010200010001fc030386e24c3add
+
+tg://proxy?server=khare-gol.golabkashan.info&port=8443&secret=1603010200010001fc030386e24c3add
 
 tg://proxy?server=elrmam.bypased.info&port=8443&secret=1603010200010001fc030386e24c3add
 
-tg://proxy?server=strong.hosiyaman.info&port=8443&secret=1603010200010001fc030386e24c3add
+tg://proxy?server=becarefull.bypased.info&port=8443&secret=1603010200010001fc030386e24c3add
 
-tg://proxy?server=ir.closcloud.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+tg://proxy?server=ir.lv426.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
 
-tg://proxy?server=comback-all.hosiyaman.info&port=8443&secret=1603010200010001fc030386e24c3add
+tg://proxy?server=ir.mohearn.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
+
+tg://proxy?server=haji-jan.golabkashan.info&port=8443&secret=1603010200010001fc030386e24c3add
+
+tg://proxy?server=gardeshgar.miandoabs.info&port=8443&secret=1603010200010001fc030386e24c3add
