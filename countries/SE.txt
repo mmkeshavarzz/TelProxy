@@ -1,1 +1,1 @@
-tg://proxy?server=max.kimt.click&port=443&secret=ee1b153cf06dbd43c6085c359a6702eb936d61782e6b696d742e636c69636b
+tg://proxy?server=demo.white-bars.ru&port=443&secret=ee12f392b7ee1dd989907a3dbdac0e523964656d6f2e77686974652d626172732e7275
