@@ -1,1 +1,5 @@
-tg://proxy?server=shared2.ddproxy.xyz&port=443&secret=7t3d3d3d3d3d3d3d3d3d3d1tLmJlYm9vLnJ1
+tg://proxy?server=freeconnect.lol&port=443&secret=eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275
+
+tg://proxy?server=proxtstar.live&port=443&secret=eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275
+
+tg://proxy?server=ultraproxy.shop&port=443&secret=eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275
