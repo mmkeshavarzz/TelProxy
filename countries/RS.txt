@@ -1,0 +1,1 @@
+tg://proxy?server=fr.internet4free.org&port=443&secret=dd3734eba41c93d0154af5016413b6a00e
