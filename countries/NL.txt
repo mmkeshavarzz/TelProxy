@@ -1,1 +1,3 @@
 tg://proxy?server=185.77.96.1&port=8443&secret=bf2603b017a75407b95a0e97fe27e61e
+
+tg://proxy?server=reference.zerooners.com&port=300&secret=eeNEgYdJvXrFGRMCIMJdCWFydmFuY2xvdWQuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
