@@ -1,3 +1,1 @@
-tg://proxy?server=russia.knox-proxy.world&port=4515&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d
-
-tg://proxy?server=www.prxtg.top&port=443&secret=ee4274afdce63c4c3a2b341bad09220a047777772e70727874672e746f70
+tg://proxy?server=gardenkite.heronglade.space&port=443&secret=ee4b20619b99880640b45f275c18e20555706574726f766963682e7275
