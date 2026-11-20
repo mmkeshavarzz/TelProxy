@@ -1,1 +1,3 @@
 tg://proxy?server=31.57.185.235&port=443&secret=dd890938bf53a1dab0a211a217a9260763
+
+tg://proxy?server=top.deal-market.xyz&port=853&secret=eed54b7276c5dfb4e0ecb7996de53dc9ae696e74656c2e636f6d
