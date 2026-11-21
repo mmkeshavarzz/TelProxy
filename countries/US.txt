@@ -1,21 +1,3 @@
 tg://proxy?server=31.57.185.235&port=443&secret=dd890938bf53a1dab0a211a217a9260763
 
-tg://proxy?server=polar.paperteapot.com&port=443&secret=eed09fb30e9ba945e3eb272875413c8c94706f6c61722e7061706572746561706f742e636f6d
-
-tg://proxy?server=light.paperteapot.com&port=443&secret=eed09fb30e9ba945e3eb272875413c8c946c696768742e7061706572746561706f742e636f6d
-
-tg://proxy?server=sapphireaurora.velvetwindow.cc&port=443&secret=eed09fb30e9ba945e3eb272875413c8c9473617070686972656175726f72612e76656c76657477696e646f772e6363
-
-tg://proxy?server=sun.paperteapot.com&port=443&secret=eed09fb30e9ba945e3eb272875413c8c9473756e2e7061706572746561706f742e636f6d
-
-tg://proxy?server=light.velvetwindow.cc&port=443&secret=eed09fb30e9ba945e3eb272875413c8c946c696768742e76656c76657477696e646f772e6363
-
-tg://proxy?server=sapphireaurora.paperteapot.com&port=443&secret=eed09fb30e9ba945e3eb272875413c8c9473617070686972656175726f72612e7061706572746561706f742e636f6d
-
-tg://proxy?server=polar.velvetwindow.cc&port=443&secret=eed09fb30e9ba945e3eb272875413c8c94706f6c61722e76656c76657477696e646f772e6363
-
-tg://proxy?server=violetvalley.paperteapot.com&port=443&secret=eed09fb30e9ba945e3eb272875413c8c9476696f6c657476616c6c65792e7061706572746561706f742e636f6d
-
-tg://proxy?server=violetvalley.velvetwindow.cc&port=443&secret=eed09fb30e9ba945e3eb272875413c8c9476696f6c657476616c6c65792e76656c76657477696e646f772e6363
-
-tg://proxy?server=sun.velvetwindow.cc&port=443&secret=eed09fb30e9ba945e3eb272875413c8c9473756e2e76656c76657477696e646f772e6363
+tg://proxy?server=info.sibasiba.space&port=443&secret=7rMwK4zm8Y5eXzI2Dh1wpP9pbmZvLnNpYmFzaWJhLnNwYWNl

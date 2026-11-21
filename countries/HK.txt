@@ -1,7 +1,7 @@
-tg://proxy?server=lelo74.kelpmoor.xyz&port=443&secret=eee38448c7e07ec8d42dfb2ca4d668b79062726f777365722e79616e6465782e7275
+tg://proxy?server=maple.paperteapot.com&port=443&secret=eed09fb30e9ba945e3eb272875413c8c946d61706c652e7061706572746561706f742e636f6d
 
-tg://proxy?server=loga86.sorrelbay.xyz&port=8443&secret=eee38448c7e07ec8d42dfb2ca4d668b790617669746f2e7275
+tg://proxy?server=maple.velvetwindow.cc&port=443&secret=eed09fb30e9ba945e3eb272875413c8c946d61706c652e76656c76657477696e646f772e6363
 
-tg://proxy?server=sso.prxtg.top&port=443&secret=ee81155f42409fce134de8524006051c6973736f2e70727874672e746f70
+tg://proxy?server=violetvalley.velvetwindow.cc&port=443&secret=eed09fb30e9ba945e3eb272875413c8c9476696f6c657476616c6c65792e76656c76657477696e646f772e6363
 
-tg://proxy?server=russia.knox-proxy.world&port=4515&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d
+tg://proxy?server=violetvalley.paperteapot.com&port=443&secret=eed09fb30e9ba945e3eb272875413c8c9476696f6c657476616c6c65792e7061706572746561706f742e636f6d
