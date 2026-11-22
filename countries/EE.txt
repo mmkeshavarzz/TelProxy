@@ -1,1 +1,1 @@
-tg://proxy?server=dns.vdl.lat&port=443&secret=eece59031f1109f05387b7155534c7ac87646e732e76646c2e6c6174
+tg://proxy?server=media.maxim-api.com&port=18443&secret=ee888d29ec050419c2d69ddc04a4bf12d86d656469612e6d6178696d2d6170692e636f6d
