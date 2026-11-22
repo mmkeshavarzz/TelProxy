@@ -1,1 +1,1 @@
-tg://proxy?server=info.sibasiba.space&port=443&secret=7rMwK4zm8Y5eXzI2Dh1wpP9pbmZvLnNpYmFzaWJhLnNwYWNl
+tg://proxy?server=chat.appnormoor.com&port=443&secret=dd27729feca8dbcd8008c3fa4f12d92793
