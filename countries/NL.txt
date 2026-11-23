@@ -1,5 +1,3 @@
-tg://proxy?server=91.221.190.198&port=443&secret=dd104462821249bd7ac519130220c25d09
-
 tg://proxy?server=www.zone51.online&port=443&secret=eefaf243dd3c6f6d19c3d1feb60c85b0237777772e7a6f6e6535312e6f6e6c696e65
 
 tg://proxy?server=ams2.tlgfast.com&port=443&secret=ee2a4905e52c0b5fa1b009ec835de0e9b6616d73322e746c67666173742e636f6d
