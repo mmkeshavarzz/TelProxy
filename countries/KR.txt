@@ -1,7 +1,19 @@
-tg://proxy?server=russia.knox-proxy.world&port=4515&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d
+tg://proxy?server=shoreplum.paperteapot.com&port=443&secret=eed09fb30e9ba945e3eb272875413c8c9473686f7265706c756d2e7061706572746561706f742e636f6d
 
-tg://proxy?server=tg.prxtg.top&port=443&secret=ee2d1bb45f31056d1063563fc6e38e5a1064726976652e676f6f676c652e636f6d
+tg://proxy?server=pebble.paperteapot.com&port=443&secret=eed09fb30e9ba945e3eb272875413c8c94706562626c652e7061706572746561706f742e636f6d
 
-tg://proxy?server=nega52.ashwren.xyz&port=443&secret=eeebf9726b89cc8ca940357d833f491a04786170692e6f7a6f6e2e7275
+tg://proxy?server=shoreplum.velvetwindow.cc&port=443&secret=eed09fb30e9ba945e3eb272875413c8c9473686f7265706c756d2e76656c76657477696e646f772e6363
 
-tg://proxy?server=razo11.kelpmoor.xyz&port=8443&secret=eeebf9726b89cc8ca940357d833f491a04706574726f766963682e7275
+tg://proxy?server=olivesail.paperteapot.com&port=443&secret=eed09fb30e9ba945e3eb272875413c8c946f6c6976657361696c2e7061706572746561706f742e636f6d
+
+tg://proxy?server=olivesail.velvetwindow.cc&port=443&secret=eed09fb30e9ba945e3eb272875413c8c946f6c6976657361696c2e76656c76657477696e646f772e6363
+
+tg://proxy?server=glademarble.velvetwindow.cc&port=443&secret=eed09fb30e9ba945e3eb272875413c8c94676c6164656d6172626c652e76656c76657477696e646f772e6363
+
+tg://proxy?server=pebble.velvetwindow.cc&port=443&secret=eed09fb30e9ba945e3eb272875413c8c94706562626c652e76656c76657477696e646f772e6363
+
+tg://proxy?server=cedarfig.paperteapot.com&port=443&secret=eed09fb30e9ba945e3eb272875413c8c9463656461726669672e7061706572746561706f742e636f6d
+
+tg://proxy?server=glademarble.paperteapot.com&port=443&secret=eed09fb30e9ba945e3eb272875413c8c94676c6164656d6172626c652e7061706572746561706f742e636f6d
+
+tg://proxy?server=cedarfig.velvetwindow.cc&port=443&secret=eed09fb30e9ba945e3eb272875413c8c9463656461726669672e76656c76657477696e646f772e6363

@@ -1,21 +1,7 @@
-tg://proxy?server=max.kimt.click&port=443&secret=ee1b153cf06dbd43c6085c359a6702eb936d61782e6b696d742e636c69636b
+tg://proxy?server=matrixxx.wtf&port=443&secret=ee9250b2b65b8921d01a306376fc2dd2ca6d617472697878782e777466
 
 tg://proxy?server=matrixxx.vip&port=443&secret=eed0c83b444210a4302be4b1fe17714d4e6d617472697878782e766970
 
 tg://proxy?server=matrixxx.wtf&port=443&secret=ee9250b2b65b8921d01a306376fc2dd2ca6d617472697878782e777466
 
 tg://proxy?server=matrixxx.vip&port=443&secret=eed0c83b444210a4302be4b1fe17714d4e6d617472697878782e766970
-
-tg://proxy?server=glademarble.paperteapot.com&port=443&secret=eed09fb30e9ba945e3eb272875413c8c94676c6164656d6172626c652e7061706572746561706f742e636f6d
-
-tg://proxy?server=marble.paperteapot.com&port=443&secret=eed09fb30e9ba945e3eb272875413c8c946d6172626c652e7061706572746561706f742e636f6d
-
-tg://proxy?server=matrixxx.wtf&port=443&secret=ee9250b2b65b8921d01a306376fc2dd2ca6d617472697878782e777466
-
-tg://proxy?server=marble.velvetwindow.cc&port=443&secret=eed09fb30e9ba945e3eb272875413c8c946d6172626c652e76656c76657477696e646f772e6363
-
-tg://proxy?server=cove.velvetwindow.cc&port=443&secret=eed09fb30e9ba945e3eb272875413c8c94636f76652e76656c76657477696e646f772e6363
-
-tg://proxy?server=cove.paperteapot.com&port=443&secret=eed09fb30e9ba945e3eb272875413c8c94636f76652e7061706572746561706f742e636f6d
-
-tg://proxy?server=glademarble.velvetwindow.cc&port=443&secret=eed09fb30e9ba945e3eb272875413c8c94676c6164656d6172626c652e76656c76657477696e646f772e6363
