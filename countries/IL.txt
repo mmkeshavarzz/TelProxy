@@ -1,1 +1,13 @@
-tg://proxy?server=t6.nevcodeframe.com&port=443&secret=ee0e4d933242164450da8a7e6b469b629774362e6e6576636f64656672616d652e636f6d
+tg://proxy?server=comet.paperteapot.com&port=443&secret=eed09fb30e9ba945e3eb272875413c8c94636f6d65742e7061706572746561706f742e636f6d
+
+tg://proxy?server=citrus.velvetwindow.cc&port=443&secret=eed09fb30e9ba945e3eb272875413c8c946369747275732e76656c76657477696e646f772e6363
+
+tg://proxy?server=aurora.velvetwindow.cc&port=443&secret=eed09fb30e9ba945e3eb272875413c8c946175726f72612e76656c76657477696e646f772e6363
+
+tg://proxy?server=comet.velvetwindow.cc&port=443&secret=eed09fb30e9ba945e3eb272875413c8c94636f6d65742e76656c76657477696e646f772e6363
+
+tg://proxy?server=citrus.paperteapot.com&port=443&secret=eed09fb30e9ba945e3eb272875413c8c946369747275732e7061706572746561706f742e636f6d
+
+tg://proxy?server=aurora.paperteapot.com&port=443&secret=eed09fb30e9ba945e3eb272875413c8c946175726f72612e7061706572746561706f742e636f6d
+
+tg://proxy?server=russia.knox-proxy.world&port=4515&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d

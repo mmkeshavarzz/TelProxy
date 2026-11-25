@@ -1,1 +1,3 @@
-tg://proxy?server=rabotaetwork.lol&port=443&secret=ee47de80df1bc0d9445e351affb498dc6a7261626f74616574776f726b2e6c6f6c
+tg://proxy?server=matrixxx.vip&port=443&secret=eed0c83b444210a4302be4b1fe17714d4e6d617472697878782e766970
+
+tg://proxy?server=matrixxx.wtf&port=443&secret=ee9250b2b65b8921d01a306376fc2dd2ca6d617472697878782e777466
