@@ -1,59 +1,43 @@
-tg://proxy?server=ccc.horizon555.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+tg://proxy?server=Tond.strobox.info&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b
 
-tg://proxy?server=bimeh.my-moon.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+tg://proxy?server=hdoox.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
 
-tg://proxy?server=indigo.paperteapot.com&port=443&secret=eed09fb30e9ba945e3eb272875413c8c94696e6469676f2e7061706572746561706f742e636f6d
+tg://proxy?server=pebble.paperteapot.com&port=443&secret=eed09fb30e9ba945e3eb272875413c8c94706562626c652e7061706572746561706f742e636f6d
 
-tg://proxy?server=nyakawai.shop&port=443&secret=eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275
+tg://proxy?server=fast.strobox.info&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b
 
-tg://proxy?server=indigo.velvetwindow.cc&port=443&secret=eed09fb30e9ba945e3eb272875413c8c94696e6469676f2e76656c76657477696e646f772e6363
+tg://proxy?server=nocloudnew.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 
-tg://proxy?server=ir-neverland.nowhearthis.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
+tg://proxy?server=freeconnect.lol&port=443&secret=eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275
 
-tg://proxy?server=chat.appnormoor.com&port=443&secret=dd27729feca8dbcd8008c3fa4f12d92793
+tg://proxy?server=oodhx.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
 
-tg://proxy?server=breeze.logmanfi.info&port=8443&secret=1603010200010001fc030386e24c3add
+tg://proxy?server=pebble.velvetwindow.cc&port=443&secret=eed09fb30e9ba945e3eb272875413c8c94706562626c652e76656c76657477696e646f772e6363
 
-tg://proxy?server=mohandes.davooti.info&port=8443&secret=1603010200010001fc030386e24c3add
+tg://proxy?server=fast.prxtg.top&port=443&secret=ee2c6cbde6f1e8947d8495ea1de476fc0b64726976652e676f6f676c652e636f6d
 
-tg://proxy?server=harborwinter.paperteapot.com&port=443&secret=eed09fb30e9ba945e3eb272875413c8c94686172626f7277696e7465722e7061706572746561706f742e636f6d
+tg://proxy?server=glademarble.paperteapot.com&port=443&secret=eed09fb30e9ba945e3eb272875413c8c94676c6164656d6172626c652e7061706572746561706f742e636f6d
 
-tg://proxy?server=ruby.paperteapot.com&port=443&secret=eed09fb30e9ba945e3eb272875413c8c94727562792e7061706572746561706f742e636f6d
+tg://proxy?server=alhosein.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
 
-tg://proxy?server=sudoaptupdate-y-sudoaptupgrade-y.logmanfi.info&port=8443&secret=1603010200010001fc030386e24c3add
+tg://proxy?server=mamadgoli.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
 
-tg://proxy?server=rain.paperteapot.com&port=443&secret=eed09fb30e9ba945e3eb272875413c8c947261696e2e7061706572746561706f742e636f6d
+tg://proxy?server=shoreplum.velvetwindow.cc&port=443&secret=eed09fb30e9ba945e3eb272875413c8c9473686f7265706c756d2e76656c76657477696e646f772e6363
 
-tg://proxy?server=zzzzzzz.davooti.info&port=8443&secret=1603010200010001fc030386e24c3add
+tg://proxy?server=jadide.mamadali.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
 
-tg://proxy?server=godratmand-server.davooti.info&port=8443&secret=1603010200010001fc030386e24c3add
+tg://proxy?server=tazenafas.dingi3.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
 
-tg://proxy?server=fig.paperteapot.com&port=443&secret=eed09fb30e9ba945e3eb272875413c8c946669672e7061706572746561706f742e636f6d
+tg://proxy?server=ram7.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
 
-tg://proxy?server=khaje-hafez-shirazi.logmanfi.info&port=8443&secret=1603010200010001fc030386e24c3add
-
-tg://proxy?server=valley.paperteapot.com&port=443&secret=eed09fb30e9ba945e3eb272875413c8c9476616c6c65792e7061706572746561706f742e636f6d
-
-tg://proxy?server=fig.velvetwindow.cc&port=443&secret=eed09fb30e9ba945e3eb272875413c8c946669672e76656c76657477696e646f772e6363
-
-tg://proxy?server=ir-mainland.steveharrop.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
+tg://proxy?server=naznazi.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
 
 tg://proxy?server=31.hide.7y76y.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
 
-tg://proxy?server=21.hide.7y76y.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=porsorate.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
 
-tg://proxy?server=irl.firemedia.digital&port=443&secret=eeadd144b0531c1a9f5947e3cb29dc4fd569726c2e666972656d656469612e6469676974616c
+tg://proxy?server=jadid.porsorate.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
 
-tg://proxy?server=mt-sw.alex-photo-notes.pl&port=443&secret=eeee677bf5d2356b3744e1208cc35d70887777772e676f6f676c652e636f6d
+tg://proxy?server=cedarfig.velvetwindow.cc&port=443&secret=eed09fb30e9ba945e3eb272875413c8c9463656461726669672e76656c76657477696e646f772e6363
 
-tg://proxy?server=ir.strobox.info&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b
-
-tg://proxy?server=neon.tealbriar.xyz&port=8443&secret=ee7809adb838f02953d8f53df91d2e4b35706574726f766963682e7275
-
-tg://proxy?server=this-is.fastnet-vpn.xyz&port=4443&secret=ee466f3ef394f7c682a47b604deda898ea746869732d69732e666173746e65742d76706e2e78797a
-
-tg://proxy?server=rain.velvetwindow.cc&port=443&secret=eed09fb30e9ba945e3eb272875413c8c947261696e2e76656c76657477696e646f772e6363
-
-tg://proxy?server=w1.hiesen-proxy.ru&port=443&secret=ee19f35317df4dff3cab0202fa96ee51de676f6f676c652e636f6d
-
-tg://proxy?server=valley.velvetwindow.cc&port=443&secret=eed09fb30e9ba945e3eb272875413c8c9476616c6c65792e76656c76657477696e646f772e6363
+tg://proxy?server=shoreplum.paperteapot.com&port=443&secret=eed09fb30e9ba945e3eb272875413c8c9473686f7265706c756d2e7061706572746561706f742e636f6d
