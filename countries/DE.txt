@@ -1,43 +1,53 @@
-tg://proxy?server=91.107.171.116&port=8443&secret=EERighJJvXrFGRMCIMJdCQ==
+tg://proxy?server=162.55.45.247&port=8443&secret=dd104462821249bd7ac519130220c25d09
 
 tg://proxy?server=188.40.68.169&port=8443&secret=dd104462821249bd7ac519130220c25d09
 
-tg://proxy?server=bale.ourmainlands.co.uk&port=443&secret=7sHPeH8ntlRMSvfmHo5SAId3ZWIuYmFsZS5haQ==
-
 tg://proxy?server=116.202.246.219&port=8443&secret=dd104462821249bd7ac519130220c25d09
+
+tg://proxy?server=178.105.249.190&port=8443&secret=dd104462821249bd7ac519130220c25d09
 
 tg://proxy?server=jhndoes.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 
+tg://proxy?server=49.13.59.213&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+
+tg://proxy?server=91.107.140.144&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
+
+tg://proxy?server=maman.ir.osahflahyev.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+
 tg://proxy?server=termsnal.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 
-tg://proxy?server=premium.speed-benz.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+tg://proxy?server=benze-benz.ir.osahflahyev.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 
-tg://proxy?server=ving.mozitop.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+tg://proxy?server=Ariobarzanes.ir.igakwvwa.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 
-tg://proxy?server=aseman.lunavane.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+tg://proxy?server=im.dumaniltd.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 
 tg://proxy?server=exiscos.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 
+tg://proxy?server=one.horizon555.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+
+tg://proxy?server=ir.closcloud.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+
 tg://proxy?server=speed.runserver.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
-
-tg://proxy?server=bimeh.my-moon.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
-
-tg://proxy?server=support.infinityhalo.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 
 tg://proxy?server=ccc.horizon555.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 
-tg://proxy?server=e3fand.fesgheli.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+tg://proxy?server=aseman.lunavane.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 
-tg://proxy?server=dns.speed-benz.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+tg://proxy?server=syntax.azadaiu.info&port=8443&secret=1603010200010001fc030386e24c3add
 
-tg://proxy?server=rebous.info.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+tg://proxy?server=company.ferdosisets.info&port=8443&secret=1603010200010001fc030386e24c3add
 
-tg://proxy?server=sersinn.info&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+tg://proxy?server=ipv4.dablecheckz.info&port=8443&secret=1603010200010001fc030386e24c3add
+
+tg://proxy?server=mizban-p.iaubpanel.info&port=8443&secret=1603010200010001fc030386e24c3add
 
 tg://proxy?server=checker-mizban.dablecheckz.info&port=8443&secret=1603010200010001fc030386e24c3add
 
 tg://proxy?server=box-to-box.dablecheckz.info&port=8443&secret=1603010200010001fc030386e24c3add
 
-tg://proxy?server=91.98.97.225&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+tg://proxy?server=gradute.ferdosisets.info&port=8443&secret=1603010200010001fc030386e24c3add
 
-tg://proxy?server=one.horizon555.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+tg://proxy?server=ipv6.dablecheckz.info&port=8443&secret=1603010200010001fc030386e24c3add
+
+tg://proxy?server=sub-deal-market.duckdns.org&port=25687&secret=ee4405ebc4cbec1ccdd5c207392566c39d3632386532316d2e666931322e6831636c6179642e636c69636b
