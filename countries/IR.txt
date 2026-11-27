@@ -1,19 +1,19 @@
-tg://proxy?server=94.184.39.151&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b
-
 tg://proxy?server=94.184.39.150&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b
 
-tg://proxy?server=5.222.26.27&port=8443&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=94.184.39.151&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b
+
+tg://proxy?server=5.222.26.187&port=8443&secret=dd104462821249bd7ac519130220c25d09
 
 tg://proxy?server=5.222.23.176&port=8443&secret=dd104462821249bd7ac519130220c25d09
 
 tg://proxy?server=5.222.20.81&port=8443&secret=dd104462821249bd7ac519130220c25d09
 
-tg://proxy?server=5.222.9.46&port=8443&secret=dd104462821249bd7ac519130220c25d09
-
-tg://proxy?server=5.222.26.187&port=8443&secret=dd104462821249bd7ac519130220c25d09
-
 tg://proxy?server=5.222.26.56&port=8443&secret=dd104462821249bd7ac519130220c25d09
 
-tg://proxy?server=pspro9.co.uk&port=443&secret=dd104462821349bd7ac519130220c25d09
-
 tg://proxy?server=5.222.28.90&port=8443&secret=dd104462821249bd7ac519130220c25d09
+
+tg://proxy?server=5.222.9.46&port=8443&secret=dd104462821249bd7ac519130220c25d09
+
+tg://proxy?server=5.222.26.27&port=8443&secret=dd104462821249bd7ac519130220c25d09
+
+tg://proxy?server=pspro9.co.uk&port=443&secret=dd104462821349bd7ac519130220c25d09
