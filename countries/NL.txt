@@ -1,5 +1,9 @@
+tg://proxy?server=79.137.196.223&port=6443&secret=eeee121e233e90f2720d1154f701937cc5b67777772e636c6f7564666c6172652e636f6d
+
+tg://proxy?server=aptupdate.appnormoor.online&port=443&secret=dd27729feca8dbcd8008c3fa4f12d92793
+
 tg://proxy?server=sudosu.appnormoor.info&port=443&secret=dd27729feca8dbcd8008c3fa4f12d92793
 
-tg://proxy?server=www.tgda.best&port=443&secret=ee03744a1a378ea98bbaa8d388b30332727777772e746764612e62657374
-
 tg://proxy?server=chat.appnormoor.info&port=443&secret=dd27729feca8dbcd8008c3fa4f12d92793
+
+tg://proxy?server=shopify.appnormoor.online&port=443&secret=dd27729feca8dbcd8008c3fa4f12d92793
