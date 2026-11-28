@@ -1,10 +1,4 @@
-tg://proxy?server=max.kimt.click&port=443&secret=ee1b153cf06dbd43c6085c359a6702eb936d61782e6b696d742e636c69636b
-
-tg://proxy?server=Jacob-Elordi.Serial-seriesIron.Fist-Soft.speedtest-Soft.name.Original.Sub.S07-BluRay.saatchi.space&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b
-
 tg://proxy?server=sudosu.appnormoor.info&port=443&secret=dd27729feca8dbcd8008c3fa4f12d92793
-
-tg://proxy?server=max.kimt.click&port=443&secret=ee1b153cf06dbd43c6085c359a6702eb936d61782e6b696d742e636c69636b
 
 tg://proxy?server=www.tgda.best&port=443&secret=ee03744a1a378ea98bbaa8d388b30332727777772e746764612e62657374
 
